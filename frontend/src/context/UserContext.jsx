@@ -1,6 +1,6 @@
 import { createContext, useState } from "react";
 
-const UserDataContext = createContext();
+export const UserDataContext = createContext();
 
 import PropTypes from "prop-types";
 
